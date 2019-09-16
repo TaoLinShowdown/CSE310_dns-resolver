@@ -1,0 +1,11 @@
+QUESTION SECTION:
+google.com IN A
+
+ANSWER SECTION:
+google.com. 300 IN A 172.217.3.110
+
+Query time: 805 msec
+WHEN: Tue Mar 12 03:14:21 2019
+MSG SIZE rcvd: 276
+QUESTION SECTION:
+google.com IN A
